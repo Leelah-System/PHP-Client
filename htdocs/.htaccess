@@ -1,0 +1,7 @@
+RewriteEngine on
+
+# combine css and javascript
+RewriteRule ^([a-z]{2})/css[0-9]+/(.*\.css) /combine.php?lang=$1&files=$2&type=css [L]
+RewriteRule ^([a-z]{2})/js[0-9]+/(.*\.js) /combine.php?lang=$1&files=$2&type=javascript [L]
+RewriteRule ^css[0-9]+/(.*\.css) /combine.php?files=$1&type=css [L]
+RewriteRule ^js[0-9]+/(.*\.js) /combine.php?files=$1&type=javascript [L]

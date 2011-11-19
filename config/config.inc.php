@@ -1,0 +1,23 @@
+<?php
+define('START_TIME', microtime(true));
+
+define('MASTER_HOST', '127.0.0.1:8888');
+//define('HOST', 'vanessa-1.col.priv');
+define('HOST', '127.0.0.1:8888');
+define('ROOT_PATH', '/Users/Lith/Dropbox/Cours/etna/ETNA 2 - pasque_a/rendu/EIP/sources/client-web/trunk/');
+define('IMG_HOST', '127.0.0.1:8888/images');
+define('DEBUG', TRUE);
+define('ERROR_REPORTING', E_ALL);
+define('CONTENT', 1);
+define('JAVASCRIPT', 2);
+define('NOLANG', TRUE);
+define('LANGUAGE', 'fr');
+define('THEME', ROOT_PATH.'htdocs/themes/default');
+
+define('API_HOST', '127.0.0.1');
+//define('API_HOST', '10.0.2.91');
+define('API_PORT', '3001');
+define('LOGIN_API', 'leelah');
+define('PASSWORD_API', 'passwd');
+
+?>

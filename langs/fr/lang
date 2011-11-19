@@ -1,0 +1,19 @@
+lang = fr
+accueil = "Bienvenue sur le site client Leelah System"
+description = "Leelah System - G&eacute;rer votre soci&eacute;t&eacute; simplement"
+keywords = "Gestion, restaurant, soci&eacute;t&eacute;"
+gKeywords = ""
+ContentType = ""
+
+login = "Nom d'utilisateur"
+password = "Mot de passe"
+connect = "Se connecter"
+login_incorrect = "Les informations indiqu&eacute;s sont incorrectes."
+
+welcome = "Bienvenue"
+disconnect = "D&eacute;connexion"
+
+addproduct = "Ajouter un nouveau produit"
+add = "Ajouter"
+
+adduser = "Ajouter un utilisateur"

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/48064/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates
+END
+users.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/48064/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/users.tpl
+END
+products.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/48064/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/products.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/67871/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/header.tpl
+END
+home.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/48064/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/home.tpl
+END
+addproduct.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/48064/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/addproduct.tpl
+END
+catalog.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/47935/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/catalog.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/47935/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/footer.tpl
+END
+orders.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/47935/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/orders.tpl
+END
+reports.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/47935/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/reports.tpl
+END
+connection.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/47975/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/themes/default/templates/connection.tpl
+END

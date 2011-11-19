@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/47975/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class
+END
+restapi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/47975/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/restapi.class.php
+END
+security.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/security.class.php
+END
+httprequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/67871/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/httprequest.class.php
+END
+templates.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/templates.class.php
+END
+load.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/load.class.php
+END
+lang.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/lang.class.php
+END
+theme.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/theme.class.php
+END
+lang2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/lang2.class.php
+END
+general.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/47975/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/class/general.func.php
+END

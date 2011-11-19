@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins
+END
+function.html_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_image.php
+END
+modifier.spacify.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.spacify.php
+END
+modifier.escape.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.escape.php
+END
+modifier.debug_print_var.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.debug_print_var.php
+END
+modifiercompiler.strip_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.strip_tags.php
+END
+modifier.replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.replace.php
+END
+modifiercompiler.count_characters.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.count_characters.php
+END
+block.php.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/block.php.php
+END
+variablefilter.htmlspecialchars.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/variablefilter.htmlspecialchars.php
+END
+modifier.date_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.date_format.php
+END
+modifier.capitalize.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.capitalize.php
+END
+function.cycle.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.cycle.php
+END
+modifiercompiler.upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.upper.php
+END
+block.textformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/block.textformat.php
+END
+modifiercompiler.count_sentences.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.count_sentences.php
+END
+function.html_radios.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_radios.php
+END
+modifiercompiler.strip.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.strip.php
+END
+modifiercompiler.wordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.wordwrap.php
+END
+outputfilter.trimwhitespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/outputfilter.trimwhitespace.php
+END
+modifiercompiler.count_words.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.count_words.php
+END
+modifiercompiler.cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.cat.php
+END
+function.html_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_table.php
+END
+modifier.regex_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.regex_replace.php
+END
+function.counter.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.counter.php
+END
+function.html_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_options.php
+END
+function.html_select_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_select_time.php
+END
+shared.make_timestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/shared.make_timestamp.php
+END
+modifiercompiler.string_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.string_format.php
+END
+modifiercompiler.indent.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.indent.php
+END
+function.mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.mailto.php
+END
+modifiercompiler.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.default.php
+END
+function.fetch.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.fetch.php
+END
+function.math.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.math.php
+END
+modifiercompiler.lower.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.lower.php
+END
+modifiercompiler.noprint.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.noprint.php
+END
+modifier.truncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifier.truncate.php
+END
+function.html_select_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_select_date.php
+END
+shared.escape_special_chars.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/shared.escape_special_chars.php
+END
+function.html_checkboxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/function.html_checkboxes.php
+END
+shared.mb_str_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/shared.mb_str_replace.php
+END
+modifiercompiler.count_paragraphs.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/47722/TCM-EIP2/003/2012_etna2_TCM-EIP2_3_0/EIP/girard_j/sources/client-web/trunk/htdocs/libs/smarty/plugins/modifiercompiler.count_paragraphs.php
+END

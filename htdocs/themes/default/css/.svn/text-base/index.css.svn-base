@@ -1,0 +1,51 @@
+/*
+** index.css for  in /home/lith/Dropbox/etna/pasque_a/rendu/EIP/sources/client-web/trunk/class
+**
+** Made by Vanessa Pasque
+** Login   <pasque_a@etna-alternance.net>
+**
+** Started on  Tue Sep 20 18:26:53 2011 Vanessa Pasque
+** Last update Sat Sep 24 01:43:00 2011 Vanessa Pasque
+*/
+
+.loginBox
+{
+  border: 3px solid black;
+  width:300px;
+  margin:auto;
+  padding:25px;
+ }
+
+.loginBox .txt
+{
+  float:left;
+  width:100px;
+  font-weight: bold;
+  font-size: 12px;
+  padding-top:3px;
+  text-align:left;
+  padding-right:10px;
+ }
+
+.loginBox .input
+{
+  float:left;
+  margin-bottom:5px;
+ }
+
+.loginBox .button
+{
+  width:96%;
+  text-align:center;
+  margin-top:15px;
+ }
+
+.loginBox .login_incorrect
+{
+  color:red;
+  font-weight:bold;
+  font-style:italic;
+  font-size:13px;
+  text-align:center;
+  margin-top:8px;
+ }
